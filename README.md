@@ -77,8 +77,9 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <hr>
 <h2 align="left"> My Stats:</h3>
 
-[![Sreas's GitHub Streak](https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue)](https://git.io/streak-stats)
-[![Sreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut)
+![Sreas's GitHub Streak](https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue)
+![Sreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sreasgop/sreasgop/blob/7207cac04fd40bcec7b8ffcc00f83c1046f20cb9/github-contribution-grid-snake-dark.svg" />
