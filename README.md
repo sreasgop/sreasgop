@@ -6,7 +6,7 @@
 </div>
 <br>
 <h1 align="center">Hi there, I am CSGS 👋</h1>
-<h4 align="center"> Founder of Sprint Tech Academy | Student at Techno India University | Software Developer | Educator | Tech Enthusiast </h4>
+<h3 align="center"> Founder of Sprint Tech Academy | Student at Techno India University | Software Developer | Educator | Tech Enthusiast </h3>
 
 <p align="justify"> I'm a freshman at Techno India University, pursuing a Bachelor of Computer Application degree. Started coding all the way back in 2015 with Liberty Basic, followed by HTML and Python when I was in grade 5. At present, I am a C and Python Developer. I'm passionate about Web/App development, AI, DevOps, and low-level abstraction programming (OsDev and Kernel Dev), amongst OSDev excites me the most! </p>
 I also enjoy teaching computer science to students at Senior Secondary and 1st-year university levels. I believe that sharing knowledge is a great way to learn and grow as a developer.
