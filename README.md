@@ -77,7 +77,7 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <hr>
 <h2 align="left"> My Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut&theme=transparent)
 ![Sreas's GitHub Streak](https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue)
 ![Sreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true)
 
