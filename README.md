@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Snake Animation](github-contribution-grid-snake.svg)
 <!--
 **sreasgop/sreasgop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
