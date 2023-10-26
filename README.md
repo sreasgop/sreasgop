@@ -77,8 +77,10 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <hr>
 <h2 align="left"> My Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut&theme=transparent)
-![Sreas's GitHub Streak](https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue)
+<div align="center">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut&theme=transparent">
+<img alt="Top Langs" src="https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue">
+</div>
 <div align="center">
 <img alt="Sreas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true">
 </div>
@@ -94,6 +96,8 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <!--
 **sreasgop/sreasgop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut&theme=transparent)
+  ![Sreas's GitHub Streak](https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue)
   ![Sreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true)
 </div>
 Here are some ideas to get you started:
