@@ -75,8 +75,8 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <h2 align="left"> My Stats:</h3>
 
 <div align="center">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&layout=donut&theme=transparent">
-<img alt="Top Langs" src="https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&layout=donut" height='195'>
+<img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue">
 </div>
 <div align="center">
 <img alt="Sreas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true">
