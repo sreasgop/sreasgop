@@ -10,8 +10,7 @@
 
 <p align="justify"> I'm a freshman at Techno India University, pursuing a Bachelor of Computer Application degree. Started coding all the way back in 2015 with Liberty Basic, followed by HTML and Python when I was in grade 5. At present, I am a C and Python Developer. I'm passionate about Web/App development, AI, DevOps, and low-level abstraction programming (OsDev and Kernel Dev), amongst OSDev excites me the most! </p>
 I also enjoy teaching computer science to students at Senior Secondary and 1st-year university levels. I believe that sharing knowledge is a great way to learn and grow as a developer.
-<br>
-<br>
+
 <hr>
 <h2 align="left"> Connect with me: </h2>
 <div align="left">
@@ -28,8 +27,7 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-<br>
-<br>
+
 <hr>
 <h2> Languages and Tools: </h2>
 
@@ -72,8 +70,7 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
-<br>
-<br>
+
 <hr>
 <h2 align="left"> My Stats:</h3>
 
