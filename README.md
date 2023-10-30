@@ -82,8 +82,8 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <img alt="Sreas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true">
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sreasgop/sreasgop/blob/7207cac04fd40bcec7b8ffcc00f83c1046f20cb9/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sreasgop/sreasgop/blob/7207cac04fd40bcec7b8ffcc00f83c1046f20cb9/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sreasgop/sreasgop/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sreasgop/sreasgop/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
