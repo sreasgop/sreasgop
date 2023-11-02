@@ -80,13 +80,14 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <!-- </div> -->
 <br>
 <br>
-<div align="center">
+<!-- <div align="center"> -->
   
-  <img alt="Sreas's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sreasgop&theme=transparent&border_radius=20">
-</div>
+<!-- <img alt="Sreas's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sreasgop&theme=transparent&border_radius=20">--->
+<!-- </div> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sreasgop&theme=transparent&border_radius=20" alt="Streak">
 <br>
 
-<div align="center">
+<div align="left">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'>
 </div>
 <br>
