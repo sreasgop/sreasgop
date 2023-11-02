@@ -12,7 +12,7 @@
 I also enjoy teaching computer science to students at Senior Secondary and 1st-year university levels. I believe that sharing knowledge is a great way to learn and grow as a developer.
 
 <hr>
-<h2 align="left"> Connect with me: </h2>
+<h2 align="left">💬 Connect with me: </h2>
 <div align="left">
   <a href="mailto:sreasgop@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -29,7 +29,7 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 </div>
 
 <hr>
-<h2> Languages and Tools: </h2>
+<h2> 🛠️ Languages and Tools: </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -66,18 +66,19 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 <hr>
-<h2 align="left"> My Stats:</h3>
+<h2 align="left"> 📈 My Stats:</h3>
 
-<div align="center">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&layout=donut" height='195'>
+<!-- <div align="center"> -->
+<!-- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&layout=donut" height='195'> -->
 <!-- <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=sreasgop&theme=transparent&fire=blue&ring=CornflowerBlue"> -->
-</div>
+<!-- </div> -->
+<br>
 <br>
 <div align="center">
   
@@ -86,9 +87,8 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true" alt="Sreas's Github Stats" >
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'>
 </div>
-
 <br>
 
 <picture>
