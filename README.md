@@ -12,7 +12,7 @@
 I also enjoy teaching computer science to students at Senior Secondary and 1st-year university levels. I believe that sharing knowledge is a great way to learn and grow as a developer.
 
 <hr>
-<h2 align="left">💬 Connect with me: </h2>
+<h2 align="left">💬 Connect with me:- </h2>
 <div align="left">
   <a href="mailto:sreasgop@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
