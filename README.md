@@ -72,7 +72,7 @@ I also enjoy teaching computer science to students at Senior Secondary and 1st-y
 </div>
 
 <hr>
-<h2 align="left"> 📈 My Stats: </h3>
+<h2 align="left"> 📈 My Stats:- </h3>
 
 <!-- <div align="center"> -->
 <!-- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&layout=donut" height='195'> -->
