@@ -29,6 +29,7 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 </div>
 
 <hr>
+<hr>
 <h2 align = "center"> 🛠️ Languages and Tools 🛠️ </h2>
 
 <div align="center">
