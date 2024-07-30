@@ -8,8 +8,8 @@
 <h1 align="center">Hi there, I'm CSGS 👋</h1>
 <h3 align="center"> Co-Founder of Sprint Tech Academy | Software Developer | Educator | Tech Enthusiast </h3>
 
-<p align="justify"> I'm a freshman at Techno India University, pursuing a Bachelor of Computer Application degree. Started coding back in 2015 with Liberty Basic, followed by HTML and Python when I was in grade 5. At present, I am a C and Python Developer. I'm passionate about writing code that impacts people's lives. Low-level abstraction programming like OS Dev excites me the most! </p>
-I also enjoy teaching computer science to Senior Secondary and 1st-year university students. I believe that sharing knowledge is a great way to learn and grow as a developer.
+<p align="justify"> I'm a Techno India University sophomore pursuing a Bachelor of Computer Application degree. I started coding in 2015 with Liberty Basic, followed by HTML and Python in grade 5. I am currently working as a Computer Science Educator and CEO at my venture Sprint Tech Academy. I'm passionate about writing code that impacts people's lives and spreading technological literacy. Technologies that involve going into the lower level of abstraction excite me the most! </p>
+I enjoy teaching computer science to Senior Secondary and 1st-year University students.
 
 <hr>
 <h2 align="left">💬 Connect with me: </h2>
