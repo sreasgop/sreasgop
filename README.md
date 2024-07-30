@@ -12,8 +12,8 @@
 I enjoy teaching computer science to Senior Secondary and 1st-year University students.
 
 <hr>
-<h2 align="left">💬 Connect with me: </h2>
-<div align="left">
+<h2 align="center">💬 Connect with me 💬 </h2>
+<div align="center">
   <a href="mailto:sreasgop@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
@@ -29,9 +29,9 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 </div>
 
 <hr>
-<h2> 🛠️ Languages and Tools: </h2>
+<h2 align = "center> 🛠️ Languages and Tools 🛠️ </h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
