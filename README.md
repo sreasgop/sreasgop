@@ -87,7 +87,7 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sreasgop&theme=transparent&border_radius=20" alt="Streak">
 <br>
 
-<div align="left">
+<div align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'>
 </div>
 <br>
