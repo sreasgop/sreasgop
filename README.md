@@ -72,7 +72,8 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 </div>
 
 <hr>
-<h2 align="left"> 📈 My Stats: </h3>
+<hr>
+<h2 align="center"> 📈 My Stats 📈 </h3>
 
 <!-- <div align="center"> -->
 <!-- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&layout=donut" height='195'> -->
@@ -84,7 +85,9 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
   
 <!-- <img alt="Sreas's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sreasgop&theme=transparent&border_radius=20">--->
 <!-- </div> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sreasgop&theme=transparent&border_radius=20" alt="Streak">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sreasgop&theme=transparent&border_radius=20" alt="Streak">
+</div> 
 <br>
 
 <div align="center">
