@@ -29,7 +29,7 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 </div>
 
 <hr>
-<h2 align = "center> 🛠️ Languages and Tools 🛠️ </h2>
+<h2 align = "center"> 🛠️ Languages and Tools 🛠️ </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
