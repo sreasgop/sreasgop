@@ -1,8 +1,8 @@
 ![GitHub Banner](https://github.com/sreasgop/sreasgop/blob/a2a4f7f142da4c416f62622cd2d61e67af4088df/Resources/Hello%20World%2002.jpg)
 <br>
 <div align="center">
-  <p>V I S I T O R S :</p>
-  <img src="https://profile-counter.glitch.me/sreasgop/count.svg?"  />
+  <!-- <p>V I S I T O R S :</p> -->
+  <!-- <img src="https://profile-counter.glitch.me/sreasgop/count.svg?"  /> -->
 </div>
 <br>
 <h1 align="center">Hi there, I'm CSGS 👋</h1>
@@ -91,9 +91,9 @@ I enjoy teaching computer science to Senior Secondary and 1st-year University st
 </div> 
 <br>
 
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'>
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'> -->
+<!-- </div> -->
 <br>
 
 <picture>
