@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sreas+Gop+(CSGS)+%F0%9F%90%8D;Co-Founder+%26+CEO+%40+Sprint+Tech+Academy;Computer+Science+Educator+%26+Architect;Fascinated+by+Low-Level+Abstractions+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Chandra+Sreas+Gop+(CSGS)+%F0%9F%90%8D;Co-Founder+%26+CEO+%40+Sprint+Tech+Academy;Computer+Science+Educator+%26+Architect;Fascinated+by+Low-Level+Abstractions+%E2%9A%A1" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://sprinttechacademy.com">
@@ -30,13 +30,13 @@
     <td width="50%" valign="top">
       <h3 align="left">✨ <code>about_me.config</code></h3>
       <p align="justify">
-        👋 I am <b>Sreas Gop</b>, a Computer Science Educator, Software Architect, and founder dedicated to spreading deep technological literacy and empowering developers.
+        👋 I am <b>Chandra Sreas Gop</b>, a Computer Science Educator, Software Architect, and founder dedicated to spreading deep technological literacy and empowering developers.
       </p>
       <ul>
         <li>🎓 <b>Role:</b> CEO & Founder at <a href="https://sprinttechacademy.com">Sprint Tech Academy</a>.</li>
         <li>📚 <b>Teaching:</b> Senior Secondary & 1st-Year University CS Curriculum.</li>
-        <li>🚀 **Origin:** Coding since <b>2015</b> (started with Liberty BASIC, HTML & Python in Grade 5).</li>
-        <li>⚡ **Obsession:** Lower-level abstractions, systems architecture, memory safety & devtooling.</li>
+        <li>🚀 <b>Origin:</b> Coding since <b>2015</b> (started with Liberty BASIC, HTML & Python in Grade 5).</li>
+        <li>⚡ <b>Obsession:</b> Lower-level abstractions, systems architecture, memory safety & devtooling.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
