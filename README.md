@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sreasgop&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="98.5%"/>
+  <img src="https://streak-stats.demolab.com?user=sreasgop&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="50%"/>
 </div>
 
 ---
