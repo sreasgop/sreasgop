@@ -47,7 +47,7 @@
       <br/>
       <div align="center">
         <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages Mini" width="90%"/> -->
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
       </div>
     </td>
   </tr>
