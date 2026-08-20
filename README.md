@@ -15,7 +15,8 @@
 
   <p align="center">
     <a href="https://github.com/sreasgop">
-      <img src="https://komarev.com/ghpvc/?username=sreasgop&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+      <!-- <img src="https://komarev.com/ghpvc/?username=sreasgop&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> -->
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="30%"/>
     </a>
     <a href="https://github.com/sreasgop?tab=followers">
       <img src="https://img.shields.io/github/followers/sreasgop?label=Followers&style=for-the-badge&color=7b2cbf&logo=github" alt="Followers"/>
@@ -86,7 +87,6 @@
 
 <br/>
 
-<h2 align="center">🐍 Contribution Activity Matrix</h2>
 
 <div align="center">
   <picture>
