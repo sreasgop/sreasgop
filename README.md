@@ -103,6 +103,6 @@
 <div align="center">
   <p><i>"The best way to predict the future is to invent it."</i></p>
   <a href="https://www.linkedin.com/in/chandrasreasgop/">
-    <img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn"/>
   </a>
 </div>
