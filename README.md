@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sreasgop&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreasgop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="30%"/>
 </div>
 
 <br/>
