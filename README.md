@@ -79,6 +79,7 @@
           <img src="https://github-readme-stats-fast.vercel.app/api?username=sreasgop&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
+        <!-- <img src="https://streak-stats.demolab.com?user=sreasgop&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="100%"/> -->
         <img src="https://streak-stats.demolab.com?user=sreasgop&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="100%"/>
       </td>
     </tr>
