@@ -80,7 +80,7 @@
       </td>
       <td width="50%">
         <!-- <img src="https://streak-stats.demolab.com?user=sreasgop&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="100%"/> -->
-        <img src="https://streak-stats.demolab.com?user=sreasgop&hide_border=true" alt="Streak Stats" width="100%"/>
+        <img src="https://streak-stats.demolab.com/?user=sreasgop&theme=github-dark-blue&hide_border=true%22" alt="Streak Stats" width="100%"/>
       </td>
     </tr>
   </table>
